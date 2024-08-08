@@ -1,1 +1,1 @@
-# Generic-And-Markowitz-Optimisation
+# Generic-And-Markowitz-Optimization
